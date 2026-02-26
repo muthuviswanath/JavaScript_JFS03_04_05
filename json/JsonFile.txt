@@ -1,0 +1,12 @@
+{} - Object
+[] - Array
+:  - Key-Value separator
+,  - Element separator
+"" - String representation
+true/false - Boolean representation
+null - Empty Value
+
+//Syntax 1: Basic Form
+{
+    "field_name":value
+}

@@ -1,0 +1,12 @@
+{
+    "employees":[
+        {"id":123, "name":"Muthu", "skills":["Python","Java","JavaScript",".Net"]},
+        {"id":121, "name":"Rohan", "skills":["Java","JavaScript",".Net"]},
+        {"id":124, "name":"Pradeep", "skills":["Python",".Net"]}
+    ],
+    "department":[
+        {"id":10, "name":"Operations","location":"Bengaluru"},
+        {"id":20, "name":"Development","location":"Mysuru"}
+    ]
+
+}

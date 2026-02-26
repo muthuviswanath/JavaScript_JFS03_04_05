@@ -1,0 +1,14 @@
+{
+    "employee1":{
+        "id":123,
+        "name": "Shiva",
+        "salary": 567890.34
+    },
+
+    "employee2":{
+        "id":124,
+        "name": "Pawan",
+        "salary": 567890.34,
+        "blood_group":"O +ve"
+    }
+}
